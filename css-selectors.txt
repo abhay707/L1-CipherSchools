@@ -1,0 +1,15 @@
+1. Simple selector 
+    
+    element selector
+    class selector
+    id selector
+    univerasal selector
+    grouping selector
+
+2. Combinator selector
+    
+    Descendant selector
+    child selector
+    adjacent sibling selector
+    general sibling selector
+    
