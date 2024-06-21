@@ -92,12 +92,12 @@
 
 
 // Rest operator
-const addNumbers = (...args) => {
-    let sum = 0;
-    for(let arg of args){
-        sum += arg
-    }
-    return sum
-}
+// const addNumbers = (...args) => {
+//     let sum = 0;
+//     for(let arg of args){
+//         sum += arg
+//     }
+//     return sum
+// }
 
-console.log(addNumbers(10, 13, 42, 23, 44));
+// console.log(addNumbers(10, 13, 42, 23, 44));
